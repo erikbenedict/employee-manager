@@ -37,7 +37,7 @@ To get a local copy up and running follow these simple example steps.
   ```sh
   source ./db/seeds.sql
   ```
-- (!IMPORTANT!) Make sure to change `user:` and `password:` in the `connection.js` file to your personal local MySQL information to create the connection
+- (!! IMPORTANT !!) Make sure to change `user:` and `password:` in the `connection.js` file to your personal local MySQL information to create the connection
 
 ## Usage
 
