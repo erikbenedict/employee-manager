@@ -28,6 +28,10 @@ To get a local copy up and running follow these simple example steps.
 
 Below is a demo of how this Employee Manager application works. It's a simple process that will keep your business organized and efficient!
 
+
+https://github.com/erikbenedict/employee-manager/assets/89614823/be5cbc89-d268-4b13-984e-3076dbde974e
+
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
