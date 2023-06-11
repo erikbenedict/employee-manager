@@ -33,7 +33,7 @@ To get a local copy up and running follow these simple example steps.
   ```sh
   source ./db/schema.sql
   ```
-- (OPTIONAL) Add seed data to the database
+- Add seed data to the database
   ```sh
   source ./db/seeds.sql
   ```
