@@ -26,6 +26,17 @@ To get a local copy up and running follow these simple example steps.
   ```sh
   npm i
   ```
+- Create database in MySQL
+  ```sh
+  mysql -r root -p
+  ```
+  ```sh
+  source ./db/schema.sql
+  ```
+- (OPTIONAL) Add seed data to the database
+  ```sh
+  source ./db/seeds.sql
+  ```
 
 ## Usage
 
