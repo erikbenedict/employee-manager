@@ -37,14 +37,13 @@ To get a local copy up and running follow these simple example steps.
   ```sh
   source ./db/seeds.sql
   ```
+- (!IMPORTANT!) Make sure to change `user:` and `password:` in the `connection.js` file to your personal local MySQL information to create the connection
 
 ## Usage
 
 Below is a demo of how this Employee Manager application works. It's a simple process that will keep your business organized and efficient!
 
-
-https://github.com/erikbenedict/employee-manager/assets/89614823/be5cbc89-d268-4b13-984e-3076dbde974e
-
+https://github.com/erikbenedict/employee-manager/assets/89614823/2015506d-c2ee-49a8-b631-112e346d7933
 
 ## Contributing
 
