@@ -7,6 +7,9 @@ Organization and planning are essential when it comes to running a business. Thi
 ## Built With
 
 - Node.js
+- Inquirer
+- Console.table
+- Figlet
 - MySQL
 
 ## Getting Started
